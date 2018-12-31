@@ -1,8 +1,6 @@
-<a href="https://mysqliphp.blogspot.com/"><img src="https://imgur.com/6yA25hz" title="Miguel Santisteban" alt="Miguel Santisteban"></a>
+<a href="https://mysqliphp.blogspot.com/"><img src="https://photos.app.goo.gl/kpKuZbbMiopfi9q39" title="Miguel Santisteban" alt="Miguel Santisteban"></a>
 
-<!-- [![MYSQLIPHP](https://imgur.com/6yA25hz)](https://mysqliphp.blogspot.com/) -->
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+<!-- [![MYSQLIPHP](https://photos.app.goo.gl/kpKuZbbMiopfi9q39)](https://mysqliphp.blogspot.com/) -->
 
 # Banco de Dados Ajax, MySQL & PHP 
 
