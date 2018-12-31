@@ -1,4 +1,4 @@
-<a href="https://mysqliphp.blogspot.com/"><img src="https://avatars1.githubusercontent.com/u/25410070?s=400&u=a2885b65ae095693c82a8483a08d797e4c19d972&v=4" title="Miguel Santisteban" alt="Miguel Santisteban"></a>
+<a href="https://mysqliphp.blogspot.com/"><img src="https://avatars1.githubusercontent.com/u/25410070?s=200&u=a2885b65ae095693c82a8483a08d797e4c19d972&v=4" title="Miguel Santisteban" alt="Miguel Santisteban"></a>
 
 <!-- [![MYSQLIPHP](https://photos.app.goo.gl/kpKuZbbMiopfi9q39)](https://mysqliphp.blogspot.com/) -->
 
