@@ -18,7 +18,7 @@
 
 </head>
 <body>
-
+    <!--Form Bootstrap-->
     <div class="container h-25">
         <form>
             <select  class="form-control" name="users" onchange="showUser(this.value)">
@@ -32,6 +32,8 @@
         <br>
 
     </div>
+    <!--End Form Bootstrap-->
+    <!--Magia onde aparece os dados MySQL-->
     <div id="txtHint"><b>O nome será listado aquí</b></div>
 
 
