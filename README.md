@@ -14,7 +14,7 @@
 
 ## Instalação
 
-- Primeiro: Você tem que entrar no arquivo `muestreUser.php` e inserir seus dados para acesso à MySQL na linha 42, 43, 44, e 45
+- Primeiro: Você tem que entrar no arquivo `template/muestreUser.php` e inserir seus dados para acesso à MySQL na linha 42, 43, 44, e 45
 - Iniciar o Aplicativo desde `index.php`
 
 ### Clone
