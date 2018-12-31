@@ -12,7 +12,9 @@
     <script type="application/javascript" src="js/popper.min.js"></script>
     <script type="application/javascript" src="js/bootstrap.min.js"></script>
     <!--End Bootstrap-->
+    <!--Script Motor Controlador-->
     <script type="application/javascript" src="js/script.js"></script>
+    <!--End Script Controller-->
 
 </head>
 <body>
