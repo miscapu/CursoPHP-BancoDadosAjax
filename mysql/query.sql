@@ -1,0 +1,9 @@
+CREATE TABLE Usuarios(
+  id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY ,
+  primerNome VARCHAR(20) NOT NULL ,
+  ultimoNome VARCHAR(20) NOT NULL ,
+  idade INT(5) NOT NULL ,
+  cidade VARCHAR(20) NOT NULL ,
+  trabalho VARCHAR(20) NOT NULL ,
+
+)
